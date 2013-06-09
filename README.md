@@ -14,8 +14,11 @@ KanXuePasswordTest
 http://bbs.pediy.com/showthread.php?t=163280
 
 vb_login_md5password值生成方式：
+
 (1). 取出密码中的前后空格 trim()
+
 (2). 对上步结果做一下java方法处理
+
 ```java
 private String strToEnt(String input) {
   String output = "";
