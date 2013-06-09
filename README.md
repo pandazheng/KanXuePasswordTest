@@ -5,7 +5,9 @@ KanXuePasswordTest
 
 #关于方法
 本方法是按照官方提供的Java代码和方法解释，通过Objective-C语言实现的
+
 实现此方法是为了方便看雪论坛iOS客户端制作
+
 项目内附Main.java是按照官方说明实现的Java版方法，主要内容复制自官方介绍贴
 
 
