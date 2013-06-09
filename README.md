@@ -49,10 +49,15 @@ private String strToEnt(String input) {
 
 #测试结果
 ###Java
+
 KanXueLunTanKaolaSo
+
 22f877f1ab38daf680f799b5df1d293e
+
 ###Objective-C
+
 2013-06-09 10:00:57.544 KanXuePasswordTest[56683:c07] KanXueLunTanKaolaSo
+
 2013-06-09 10:00:57.545 KanXuePasswordTest[56683:c07] 22f877f1ab38daf680f799b5df1d293e
 
 #开源代码授权
